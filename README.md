@@ -16,7 +16,7 @@ No-code platform that enables professionals to build interactive applications.
   - Support the development and execution of sub-agreements, consultancies, contracts, etc. with collaborating partners, including the development of Letters of Understandings, Scope of Work Agreements and Roles and Responsibilities documents
   - Create and maintain databases for implementation of field-based activities
   - Designed and developed technical architecture to improve data quality at all clinical trial sites through R Studio
-  - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/) to succinctly synthesize large amounts of data for team members and project stakeholders
+  - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/){:target="_blank"} to succinctly synthesize large amounts of data for team members and project stakeholders
   - Developed automated processes for data extraction and analysis with R Studio
   - **_Technologies used:_** R Studio, Shiny, Python.
 <br><br>
