@@ -13,7 +13,7 @@ No-code platform that enables professionals to build interactive applications.
   - **_Technologies used:_** R Studio, Shiny, Python.
 <br><br>
 
-## Peer Reviewed Publications
+## ✒️ Peer Reviewed Publications
 1. Dyer J, Wilson K, Badia J, Agot K, Neary J, Njuguna I, Kibugi J, Healy E, Beima-Sofie K, John-Stewart G, Kohler P. [The Psychosocial Effects of the COVID-19 Pandemic on Youth Living with HIV in Western Kenya.](https://pubmed.ncbi.nlm.nih.gov/32816193/) AIDS Behav. 2021 Jan;25(1):68-72. doi: 10.1007/s10461-020-03005-x. PMID: 32816193; PMCID: PMC7438976.
 2. Ghosh R, Spindler H, Dyer J, et al. [Simulation and team training embedded nurse mentoring programme and improvement in intrapartum and newborn care in a low-resource setting in Bihar, India.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759018/) J Glob Health. 2020;10(2):021010. doi:10.7189/jogh.10.021010
 3. Afulani PA, Dyer J, Calkins K, Aborigo RA, Mcnally B, Cohen SR. [Provider knowledge and perceptions following an integrated simulation training on emergency obstetric and neonatal care and respectful maternity care: A mixed-methods study in Ghana.](https://pubmed.ncbi.nlm.nih.gov/32114318/) Midwifery. 2020 Jun;85:102667. doi: 10.1016/j.midw.2020.102667. Epub 2020 Feb 19. PMID: 32114318.
