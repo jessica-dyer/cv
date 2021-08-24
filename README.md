@@ -18,7 +18,7 @@ No-code platform that enables professionals to build interactive applications.
   - Designed and developed technical architecture to improve data quality at all clinical trial sites through R Studio
   - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/) to succinctly synthesize large amounts of data for team members and project stakeholders
   - Developed automated processes for data extraction and analysis with R Studio
-  - **_Technologies used:_** R Studio, Shiny, Python.
+  - **_Technologies used:_** R Studio, Shiny, Python, GitHub.
 <br><br>
 
 ## ✒️ Peer Reviewed Publications
