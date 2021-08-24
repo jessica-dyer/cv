@@ -8,8 +8,16 @@ _Research scientist (and aspiring software engineer) based in Seattle, Washingto
 
 **Research Scientist** @ [University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
+  - Main point of contact for the Data-informed Stepped Care (DiSC) randomized clinical trial
+  - Prepare and submit all human subjects applications, modifications, and renewals
+  - Track and report site progress throughout the life of the study
+  - Ensure regulatory compliance and reporting
+  - Manage the development and maintenance of all standard operation procedures (SOP’s)
+  - Support the development and execution of sub-agreements, consultancies, contracts, etc. with collaborating partners, including the development of Letters of Understandings, Scope of Work Agreements and Roles and Responsibilities documents
+  - Create and maintain databases for implementation of field-based activities
+  - Designed and developed technical architecture to improve data quality at all clinical trial sites through R
+  - Generated dashboards and websites to succinctly synthesize large amounts of data for team members and project stakeholders
+  - Developed automated processes for data extraction and analysis with R Studio
   - **_Technologies used:_** R Studio, Shiny, Python.
 <br><br>
 
