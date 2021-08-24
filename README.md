@@ -2,7 +2,7 @@
 
 _Research scientist (and aspiring software engineer) based in Seattle, Washington_ <br>
 
-[Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in//) / [GitHub](https://github.com/jessica-dyer/)
+[Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in/jessica-dyer-42aa372/) / [GitHub](https://github.com/jessica-dyer/)
 
 ## 👩🏼‍💻 Technical Experience
 
