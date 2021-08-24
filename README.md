@@ -1,4 +1,4 @@
-# Jessica Dyer
+# Jessica Dyer, MPH
 
 _Research scientist (and aspiring software engineer) based in Seattle, Washington_ <br>
 
