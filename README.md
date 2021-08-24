@@ -1,14 +1,16 @@
 # Jessica Dyer
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Research scientist (and aspiring software engineer) based in Seattle, Washington_ <br>
 
-[Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in//) / [GitHub](https://github.com/jessica-dyer/) / [Twitter](https://twitter.com//) / [DEV](https://dev.to//)
+[Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in//) / [GitHub](https://github.com/jessica-dyer/)
 
 ## 👩🏼‍💻 Technical Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Research Scientist** @ [University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+  - **_Technologies used:_** R Studio, Shiny, Python.
 <br><br>
+
+
