@@ -14,16 +14,16 @@ Dynamic, results-driven professional passionate about writing clean and readable
 - **Tools:** Git, Docker, Heroku
 
 ## 🌟 Education
-- **[Hack Reactor](https://www.hackreactor.com/)** _(July 2022)_ <br>
-  - Software Engineering Coding Bootcamp with JavaScript and Python
-  - 19 weeks, full time, live online
+**[Hack Reactor](https://www.hackreactor.com/)** _(July 2022)_ <br>
+- Software Engineering Coding Bootcamp with JavaScript and Python
+- 19 weeks, full time, live online
     
-- **University of Washington, Department of Global Health** _(June 2015)_
-  - Master of Public Health
+**University of Washington, Department of Global Health** _(June 2015)_
+- Master of Public Health
 
 ## 👩🏼‍💻 Work Experience
 
-**Research Scientist** @ [University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - December 2021)_ <br>
+**Research Scientist** @[University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - December 2021)_ <br>
   - Managed phase III [cluster randomized controlled trial (cRCT)](https://clinicaltrials.gov/ct2/show/NCT05007717?term=Data-informed+Stepped+Care&draw=2&rank=1) to evaluate the effectiveness of the implementation of the data-informed stepped care (DiSC) intervention for HIV treatment management among adolescents living with HIV (ALHIV) in high-volume HIV clinics in Kenya.
   - Managed the development and maintenance of all standard operation procedures
   - Designed and developed technical architecture to track and improve Electronic Medical Record (EMR) data quality at all clinical trial sites through RStudio
