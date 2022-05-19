@@ -7,20 +7,16 @@ _Full Stack Software Engineer and Research Scientist based in Seattle, Washingto
 ## Summary
 Dynamic, results-driven professional passionate about writing clean and readable code to implement solutions to complex problems. Enjoys creating neat and tidy data pipelines to help people use complex data to make data-informed decisions. Effective and articulate communicator with the ability to establish rapport with individuals at all levels.
 
-## Tech Stack
+## 💻 Tech Stack
 - **Languages:** Python, JavaScript, R
 - **Front-end:** React, KivyMD, HTML5, CSS
 - **Back-end:** Django, PostgreSQL, SQLite, RESTful API Development, Microservices
 - **Tools:** Git, Docker, Heroku
 
-## Education
+## 🌟 Education
 - **[Hack Reactor](https://www.hackreactor.com/)** _(July 2022)_ <br>
-  - Sample projects include several small full-stack applications utilizing: 
-    - Microservices
-    - Django/Python as a back-end 
-    - JavaScript/React/CSS for front-end development
-    - [Car inventory web application](https://gitlab.com/jessica-dyer/project-beta)
-  - Provide tutoring sessions to classmates to help advance the skills of others
+  - Software Engineering Coding Bootcamp with JavaScript and Python
+  - 19 weeks, full time, live online
     
 - **University of Washington, Department of Global Health** _(June 2015)_
   - Master of Public Health
@@ -58,8 +54,8 @@ Dynamic, results-driven professional passionate about writing clean and readable
 - Connected villagers with local malaria prevention and other health resources and enabled HIV/AIDS awareness education for over 200 students at four local schools.
 
 ## ✒️ Peer Reviewed Publications
-1. Dyer J, Shah S, Agot K, Wilson K, Bosire R, Badia J, Inwani I, Beima-Sofie K, Richardson B, John-Stewart G, Kohler P. Contrasting
-comprehension of HIV research by adolescents, young adults, and caregivers in Western Kenya. Journal of the Association of Nurses in AIDS Care. 2022. In press. 
+1. Dyer J, Shah S, Agot K, Wilson K, Bosire R, Badia J, Inwani I, Beima-Sofie K, Richardson B, John-Stewart G, Kohler P. **Contrasting
+comprehension of HIV research by adolescents, young adults, and caregivers in Western Kenya. Journal of the Association of Nurses in AIDS Care. 2022.** In press. 
 1. Dyer J, Wilson K, Badia J, Agot K, Neary J, Njuguna I, Kibugi J, Healy E, Beima-Sofie K, John-Stewart G, Kohler P. [The Psychosocial Effects of the COVID-19 Pandemic on Youth Living with HIV in Western Kenya.](https://pubmed.ncbi.nlm.nih.gov/32816193/) AIDS Behav. 2021 Jan;25(1):68-72. doi: 10.1007/s10461-020-03005-x. PMID: 32816193; PMCID: PMC7438976.
 2. Ghosh R, Spindler H, Dyer J, et al. [Simulation and team training embedded nurse mentoring programme and improvement in intrapartum and newborn care in a low-resource setting in Bihar, India.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759018/) J Glob Health. 2020;10(2):021010. doi:10.7189/jogh.10.021010
 3. Afulani PA, Dyer J, Calkins K, Aborigo RA, Mcnally B, Cohen SR. [Provider knowledge and perceptions following an integrated simulation training on emergency obstetric and neonatal care and respectful maternity care: A mixed-methods study in Ghana.](https://pubmed.ncbi.nlm.nih.gov/32114318/) Midwifery. 2020 Jun;85:102667. doi: 10.1016/j.midw.2020.102667. Epub 2020 Feb 19. PMID: 32114318.
