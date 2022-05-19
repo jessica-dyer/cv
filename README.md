@@ -16,8 +16,10 @@ Dynamic, values-driven, professional passionate about writing clean and readable
 ## 🌟 Education
 **[Hack Reactor](https://www.hackreactor.com/)** _(July 2022)_ <br>
 - Software Engineering Coding Bootcamp with JavaScript and Python
-- 19 weeks, full time, live online
-    
+
+**[Johns Hopkins University through Coursera](https://www.coursera.org/specializations/jhu-data-science?)** _(March 2021)_ <br>
+- A ten course specialization covering the concepts and tools needed throughout the entire data science pipeline using R. 
+
 **University of Washington, Department of Global Health** _(June 2015)_
 - Master of Public Health
 
