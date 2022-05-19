@@ -30,7 +30,6 @@ Dynamic, results-driven professional passionate about writing clean and readable
   - Designed and developed technical architecture to track and improve Electronic Medical Record (EMR) data quality at all clinical trial sites through RStudio
   - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/) to succinctly synthesize large amounts of data for team members and project stakeholders using RStudio
   - Developed automated processes for data extraction and analysis with RStudio
-  - **_Technologies used:_** RStudio, Shiny, Git
 <br><br>
 
 **Program Director** @[PRONTO International](https://prontointernational.org/) _(June 2015-Jan 2019)_ <br>
