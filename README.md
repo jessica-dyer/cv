@@ -1,25 +1,61 @@
 # Jessica Dyer, MPH
 
-_Research scientist Full Stack Software Engineer based in Seattle, Washington_ <br>
+_Full Stack Software Engineer and Research Scientist based in Seattle, Washington_ <br>
 
-[Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in/jessica-dyer-42aa372/) / [GitHub](https://github.com/jessica-dyer/)
+[Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in/jessica-dyer-42aa372/) / [GitHub](https://github.com/jessica-dyer/) / [GitLab](https://gitlab.com/jessica-dyer)
 
-## 👩🏼‍💻 Technical Experience
+## Summary
+Dynamic, results-driven professional passionate about writing clean and readable code to implement solutions to complex problems. Enjoys creating neat and tidy data pipelines to help people use complex data to make data-informed decisions. Effective and articulate communicator with the ability to establish rapport with individuals at all levels.
 
-**Research Scientist** @ [University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Main point of contact for the Data-informed Stepped Care (DiSC) randomized clinical trial
-  - Prepare and submit all human subjects applications, modifications, and renewals
-  - Track and report site progress throughout the life of the study
-  - Ensure regulatory compliance and reporting
-  - Manage the development and maintenance of all standard operation procedures (SOP’s)
-  - Support the development and execution of sub-agreements, consultancies, contracts, etc. with collaborating partners, including the development of Letters of Understandings, Scope of Work Agreements and Roles and Responsibilities documents
-  - Create and maintain databases for implementation of field-based activities
-  - Designed and developed technical architecture to improve data quality at all clinical trial sites through R Studio
-  - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/) to succinctly synthesize large amounts of data for team members and project stakeholders
-  - Developed automated processes for data extraction and analysis with R Studio
-  - **_Technologies used:_** R Studio, Shiny, Python, GitHub.
+## Tech Stack
+- **Languages:** Python, JavaScript, R
+- **Front-end:** React, KivyMD, HTML5, CSS
+- **Back-end:** Django, PostgreSQL, SQLite, RESTful API Development, Microservices
+- **Tools:** Git, Docker, Heroku
+
+## Education
+- **[Hack Reactor](https://www.hackreactor.com/)** _(July 2022)_ <br>
+  - Sample projects include several small full-stack applications utilizing: 
+    - Microservices
+    - Django/Python as a back-end 
+    - JavaScript/React/CSS for front-end development
+    - [Car inventory web application](https://gitlab.com/jessica-dyer/project-beta)
+  - Provide tutoring sessions to classmates to help advance the skills of others
+    
+- **University of Washington, Department of Global Health** _(June 2015)_
+  - Master of Public Health
+
+## 👩🏼‍💻 Work Experience
+
+**Research Scientist** @ [University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - December 2021)_ <br>
+  - Managed phase III [cluster randomized controlled trial (cRCT)](https://clinicaltrials.gov/ct2/show/NCT05007717?term=Data-informed+Stepped+Care&draw=2&rank=1) to evaluate the effectiveness of the implementation of the data-informed stepped care (DiSC) intervention for HIV treatment management among adolescents living with HIV (ALHIV) in high-volume HIV clinics in Kenya.
+  - Managed the development and maintenance of all standard operation procedures
+  - Designed and developed technical architecture to track and improve Electronic Medical Record (EMR) data quality at all clinical trial sites through RStudio
+  - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/) to succinctly synthesize large amounts of data for team members and project stakeholders using RStudio
+  - Developed automated processes for data extraction and analysis with RStudio
+  - **_Technologies used:_** RStudio, Shiny, Git
 <br><br>
+
+**Program Director** @[PRONTO International](https://prontointernational.org/) _(June 2015-Jan 2019)_ <br>
+- Worked multi-laterally to design and implement large-scale public health initiatives resulting in approximately 1,000 nurses trained to use PRONTO’s low-tech birth simulator as a teaching tool.
+- Worked closely with in-country and research partners to monitor and evaluate all activities according to established program evaluation framework to ensure program quality and fidelity.
+- Guided the analysis, synthesis and reporting of outputs and results in close collaboration with relevant support.
+- Helped to design, develop and implement a large-scale video monitoring system in Bihar, India to monitor and evaluate program effectiveness.
+- Developed and implemented a method of providing individualized feedback to PRONTO’s facilitators in India to improve program fidelity and increase data literacy using RStudio.
+
+**Program Officer** @[Mobility Outreach International](https://mobilityoi.org/) _(September 2009-July 2014)_ <br>
+- Planned and implemented the delivery of health improvement programs and activities in alignment with nonprofit organization’s mission and goals.
+- Designed, developed and launched a website that served as a resource for clinics, doctors, parents of children with clubfoot and the general public of Vietnam.
+- Implemented a database to improve efficiency, reducing both duplicates and errors for clubfoot program clients in Vietnam and Sierra Leone.
+- Collaborated with GIS analyst to design and analyze prospective clinic sites in Vietnam; leveraged findings to discern number of clinics needed within target areas as well as optimal clinic placement.
+- Monitored and evaluated all activities according to established program evaluation framework to ensure program quality.
+
+**Primary Teacher Trainer/Community Health Extension Worker** @[United States Peace Corps](https://www.peacecorps.gov) _(March 2007-April 2009)_ <br>
+- Designed, managed and implemented a winning $25,000 grant proposal, resulting in building and launching a community farm gifting pigs and goats and enabling income generation.
+- Compiled and analyzed data for use in the planning and expansion of HIV programs.
+- Developed outreach / health education courses on topics including malaria prevention and education, and the prevention of HIV/AIDS. Supported CEO and advised staff.
+- Participated in monitoring and evaluating teachers at five schools resulting in 15 teachers learning and implementing new teaching methods.
+- Connected villagers with local malaria prevention and other health resources and enabled HIV/AIDS awareness education for over 200 students at four local schools.
 
 ## ✒️ Peer Reviewed Publications
 1. Dyer J, Shah S, Agot K, Wilson K, Bosire R, Badia J, Inwani I, Beima-Sofie K, Richardson B, John-Stewart G, Kohler P. Contrasting
