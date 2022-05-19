@@ -26,6 +26,7 @@ Dynamic, results-driven professional passionate about writing clean and readable
 **Research Scientist** @[University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - December 2021)_ <br>
   - Managed phase III [cluster randomized controlled trial (cRCT)](https://clinicaltrials.gov/ct2/show/NCT05007717?term=Data-informed+Stepped+Care&draw=2&rank=1) to evaluate the effectiveness of the implementation of the data-informed stepped care (DiSC) intervention for HIV treatment management among adolescents living with HIV (ALHIV) in high-volume HIV clinics in Kenya.
   - Managed the development and maintenance of all standard operation procedures
+  - Cleaned and analyzed study data and wrote manuscripts accepted at peer-reviewed journals. 
   - Designed and developed technical architecture to track and improve Electronic Medical Record (EMR) data quality at all clinical trial sites through RStudio
   - Generated dashboards and [websites](https://jessicadyer.shinyapps.io/rdqa_report/) to succinctly synthesize large amounts of data for team members and project stakeholders using RStudio
   - Developed automated processes for data extraction and analysis with RStudio
