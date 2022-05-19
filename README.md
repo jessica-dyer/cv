@@ -5,7 +5,7 @@ _Full Stack Software Engineer and Research Scientist based in Seattle, Washingto
 [Email](mailto:jessica.dyer@gmail.com.com) / [LinkedIn](https://www.linkedin.com/in/jessica-dyer-42aa372/) / [GitHub](https://github.com/jessica-dyer/) / [GitLab](https://gitlab.com/jessica-dyer)
 
 ## Summary
-Dynamic, results-driven professional passionate about writing clean and readable code to implement solutions to complex problems. Enjoys creating neat and tidy data pipelines to help people use complex data to make data-informed decisions. Effective and articulate communicator with the ability to establish rapport with individuals at all levels.
+Dynamic, values-driven, professional passionate about writing clean and readable code to implement solutions to complex problems. Enjoys creating neat and tidy data pipelines to help people use complex data to make data-informed decisions. Effective and articulate communicator with the ability to establish rapport with individuals at all levels.
 
 ## 💻 Tech Stack
 - **Languages:** Python, JavaScript, R
