@@ -10,7 +10,7 @@ Dynamic, values-driven, professional passionate about writing clean and readable
 ## 💻 Tech Stack
 - **Languages:** Python, JavaScript, R
 - **Front-end:** React, KivyMD, HTML5, CSS
-- **Back-end:** Django, PostgreSQL, SQLite, RESTful API Development, Microservices
+- **Back-end:** Django, FastAPI, PostgreSQL, SQLite, RESTful API Development, Microservices
 - **Tools:** Git, Docker, Heroku
 
 ## 🌟 Education
