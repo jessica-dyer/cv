@@ -25,6 +25,8 @@ Dynamic, values-driven, professional passionate about writing clean and readable
 
 ## 👩🏼‍💻 Work Experience
 
+**Software Engineer** @[LevelTen Energy](https://www.leveltenenergy.com/) _(August 2022 - Present)_
+
 **Research Scientist** @[University of Washington](https://depts.washington.edu/globalwach/) _(Jan 2019 - December 2021)_ <br>
   - Managed phase III [cluster randomized controlled trial (cRCT)](https://clinicaltrials.gov/ct2/show/NCT05007717?term=Data-informed+Stepped+Care&draw=2&rank=1) to evaluate the effectiveness of the implementation of the data-informed stepped care (DiSC) intervention for HIV treatment management among adolescents living with HIV (ALHIV) in high-volume HIV clinics in Kenya.
   - Managed the development and maintenance of all standard operation procedures
